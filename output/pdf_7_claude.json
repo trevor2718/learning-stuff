@@ -1,0 +1,33 @@
+{
+  "authors": "Devulder J, De Laat M, Van Bastelaere M, Rolly G",
+  "title": "Spinal Cord Stimulation: A Valuable Treatment for Chronic Failed Back Surgery Patients",
+  "journal_name": "Journal of Pain and Symptom Management",
+  "volume_issue_pages": "13(5):296-301",
+  "year_of_publication": 1997,
+  "doi": "NAN",
+  "pubmed_hyperlink": null,
+  "study_design": "case_series_uncontrolled",
+  "study_question": "Is spinal cord stimulation effective and cost-effective for chronic failed back surgery syndrome?",
+  "population_assessed": "69 patients with chronic failed back surgery syndrome treated with spinal cord stimulation over 13 years.",
+  "follow_up_duration": "13 years (mean 4.9 years of stimulator use)",
+  "outcome_measures": "Pain relief, return to work, drug intake, cost per patient per year",
+  "inclusion_criteria": "Chronic failed back surgery syndrome, no other surgical options, no psychological impairment, successful trial stimulation.",
+  "number_of_participants_in_study": 69,
+  "answer_to_study_question": "43 patients continued therapy with good pain relief. 11 returned to work. Cost $3660 per patient yearly. Battery systems required fewer electrode interventions than radiofrequency systems.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 0.0,
+    "study_design": 0.9,
+    "study_question": 0.9,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 0.9,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "best_extraction": {
+    "authors": "Deer TR, Levy RM, Kramer J, Poree L, Amirdelfan K, Grigsby E, Staats P, Burton AW, Burgher AH, Obray J, Scowcroft J, Golovac S, Kapural L, Paicius R, Kim C, Pope J, Yearwood T, Samuel S, McRoberts WP, Cassim H, Netherton M, Miller N, Schaufele M, Tavel E, Davis T, Davis K, Johnson L, Mekhail N",
+    "title": "Dorsal root ganglion stimulation yielded higher treatment success rate for complex regional pain syndrome and causalgia at 3 and 12 months: a randomized comparative trial",
+    "journal_name": "PAIN",
+    "volume_issue_pages": "158(4):669-681",
+    "year_of_publication": 2017,
+    "doi": "10.1097/j.pain.0000000000000814",
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/28030470/",
+    "study_design": "clinical_trial",
+    "study_question": "Does DRG stimulation outperform SCS for lower-limb CRPS or causalgia?",
+    "population_assessed": "152 adults with lower-extremity CRPS or causalgia, randomized to DRG stimulation or SCS.",
+    "follow_up_duration": "12 months",
+    "outcome_measures": "Treatment success, pain reduction, paresthesia variation, quality of life, mood, adverse events.",
+    "inclusion_criteria": "Lower-limb CRPS or causalgia 6+ months, VAS over 60, failed 2 pharmacologic treatments.",
+    "number_of_participants_in_study": 152,
+    "answer_to_study_question": "DRG stimulation showed higher treatment success and better pain outcomes than SCS at 3 and 12 months."
+  },
+  "reasoning": "All models agreed on citation details, design, year, DOI, PMID link, follow-up, and sample size. I used the fuller author list from Anthropic/OpenRouter, the complete title supported by Anthropic/Google, and merged consistent outcome and eligibility details.",
+  "field_level_decisions": {
+    "authors": "Preferred complete list from Anthropic/OpenRouter over truncated Google list.",
+    "title": "Used full title appearing in Anthropic and Google.",
+    "population_assessed": "Merged consensus sample size with randomized comparison detail.",
+    "outcome_measures": "Combined overlapping endpoints across models.",
+    "inclusion_criteria": "Kept only repeated core criteria to stay concise."
+  },
+  "agreement_score": 0.96
+}

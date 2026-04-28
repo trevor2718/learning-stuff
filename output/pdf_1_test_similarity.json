@@ -1,0 +1,58 @@
+{
+  "paper_path": "/Users/david/Desktop/Bass/WikistimProject/training_papers/pdf_1.pdf",
+  "essential_extraction": {
+    "title": "A multicenter real-world review of 10 kHz SCS outcomes for treatment of chronic trunk and/or limb pain",
+    "authors": "Stauss T, El Majdoub F, Sayed D, Surges G, Rosenberg WS, Kapural L, Bundschu R, Lalkhen A, Patel N, Gliner B, Subbaroyan J, Rotte A, Edgar DR, Bettag M, Maarouf M",
+    "year_of_publication": 2019,
+    "doi": "10.1002/acn3.720",
+    "field_confidence": {
+      "title": 1.0,
+      "authors": 1.0,
+      "year_of_publication": 1.0,
+      "doi": 1.0
+    }
+  },
+  "similarity": {
+    "paper_path": "/Users/david/Desktop/Bass/WikistimProject/training_papers/pdf_1.pdf",
+    "string_features": [],
+    "specific_features": [
+      {
+        "field_name": "authors",
+        "model_value": "Stauss T, El Majdoub F, Sayed D, Surges G, Rosenberg WS, Kapural L, Bundschu R, Lalkhen A, Patel N, Gliner B, Subbaroyan J, Rotte A, Edgar DR, Bettag M, Maarouf M",
+        "ground_truth_value": "Stauss T, El Majdoub F, Sayed D, Surges G, Rosenberg WS, Kapural L, Bundschu R, Lalkhen A, Patel N, Gliner B, Subbaroyan J, Rotte A, Edgar DR, Bettag M, Maarouf M",
+        "cosine_similarity": 1.0,
+        "target": 0.9,
+        "passed": true
+      },
+      {
+        "field_name": "title",
+        "model_value": "A multicenter real-world review of 10 kHz SCS outcomes for treatment of chronic trunk and/or limb pain",
+        "ground_truth_value": "A multicenter real-world review of 10 kHz SCS outcomes for treatment of chronic trunk and/or limb pain",
+        "cosine_similarity": 1.0,
+        "target": 0.9,
+        "passed": true
+      },
+      {
+        "field_name": "year_of_publication",
+        "model_value": "2019",
+        "ground_truth_value": "2019",
+        "cosine_similarity": 1.0,
+        "target": 0.9,
+        "passed": true
+      },
+      {
+        "field_name": "doi",
+        "model_value": "10.1002/acn3.720",
+        "ground_truth_value": "10.1002/acn3.720",
+        "cosine_similarity": 1.0,
+        "target": 0.9,
+        "passed": true
+      }
+    ],
+    "mean_string_similarity": null,
+    "mean_specific_similarity": 1.0,
+    "mean_overall_similarity": 1.0,
+    "fields_passing": 4,
+    "fields_total": 4
+  }
+}

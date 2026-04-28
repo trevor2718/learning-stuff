@@ -1,0 +1,28 @@
+{
+  "best_extraction": {
+    "authors": "Al-Kaisy A, Palmisani S, Smith TE, Pang D, Lam K, Burgoyne W, Houghton R, Hudson E, Lucas J",
+    "title": "10 kHz High-Frequency Spinal Cord Stimulation for Chronic Axial Low Back Pain in Patients With No History of Spinal Surgery",
+    "journal_name": "Neuromodulation",
+    "volume_issue_pages": "20(1):63-70",
+    "year_of_publication": 2017,
+    "doi": "10.1111/ner.12563",
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/28025843/",
+    "study_design": "case_series_uncontrolled",
+    "study_question": "Does 10 kHz HF-SCS improve chronic axial low back pain without prior spinal surgery?",
+    "population_assessed": "Adults with chronic axial low back pain, no prior spinal surgery, medically refractory, unsuitable for surgery",
+    "follow_up_duration": "12 months",
+    "outcome_measures": "Back and leg VAS, ODI, EQ-5D, SF-36, opioid use, sleep, work status",
+    "inclusion_criteria": "Age 18-65, axial low back pain 6+ months, VAS 5+, failed conservative treatment, no prior surgery",
+    "number_of_participants_in_study": 21,
+    "answer_to_study_question": "HF10 reduced pain, disability, opioid use, and improved quality of life over 12 months"
+  },
+  "reasoning": "Most fields showed near-complete agreement. Study design favored case_series_uncontrolled because title says open-label proof-of-concept and two models supported it; controlled cohort seemed unlikely.",
+  "field_level_decisions": {
+    "title": "Used shorter consensus title version to stay within word limit while preserving core article identity.",
+    "journal_name": "Standardized to Neuromodulation despite one expanded subtitle variant.",
+    "study_design": "Rejected prospective_cohort_controlled; article appears prospective open-label uncontrolled.",
+    "outcome_measures": "Merged common measures across models; excluded less consistently reported QALY.",
+    "inclusion_criteria": "Used shared criteria reported by all models; omitted degenerative disc confirmation for brevity."
+  },
+  "agreement_score": 0.95
+}

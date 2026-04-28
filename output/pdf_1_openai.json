@@ -1,0 +1,33 @@
+{
+  "authors": "Stauss T, El Majdoub F, Sayed D, Surges G, Rosenberg WS, Kapural L, Bundschu R, Lalkhen A, Patel N, Gliner B, Subbaroyan J, Rotte A, Edgar DR, Bettag M, Maarouf M",
+  "title": "A multicenter real-world review of 10 kHz SCS outcomes for treatment of chronic trunk and/or limb pain",
+  "journal_name": "Annals of Clinical and Translational Neurology",
+  "volume_issue_pages": "6(3): 496-507",
+  "year_of_publication": 2019,
+  "doi": "10.1002/acn3.720",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/30911573/",
+  "study_design": "case_series_uncontrolled",
+  "study_question": "Assess real-world effectiveness of 10 kHz HF-SCS for chronic trunk and/or limb pain.",
+  "population_assessed": "1660 patients trialed and/or permanently implanted with HF-SCS at 10 kHz",
+  "follow_up_duration": "Mean follow-up 8.9 months (SD 6.7, range 0.1\u201333.2).",
+  "outcome_measures": "Responder rate (\u226550% pain relief) at 3, 6, 12 months and last visit; changes in pain intensity (VNRS), function, sleep, quality of life, and medication use.",
+  "inclusion_criteria": "Patients trialed and/or permanently implanted with HF-SCS at 10 kHz between April 2014 and January 2018.",
+  "number_of_participants_in_study": 1660,
+  "answer_to_study_question": "HF-SCS at 10 kHz provided sustained \u226550% pain relief in over 70% of patients through 12 months, with last-visit responder rate 74.1%, and improvements in QoL, function, sleep, and reduced medication use; explant rate 3.7%.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 0.7,
+    "study_question": 1.0,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 1.0,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

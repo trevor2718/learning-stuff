@@ -1,0 +1,35 @@
+{
+  "best_extraction": {
+    "authors": "LeDoux MS, Langford KH",
+    "title": "Spinal Cord Stimulation for the Failed Back Syndrome",
+    "journal_name": "SPINE",
+    "volume_issue_pages": "18(2):191-194",
+    "year_of_publication": 1993,
+    "doi": "NAN",
+    "pubmed_hyperlink": null,
+    "study_design": "case_series_uncontrolled",
+    "study_question": "Is spinal cord stimulation effective for failed back syndrome pain?",
+    "population_assessed": "32 failed back syndrome patients with post-laminectomy lumbar and lower extremity pain.",
+    "follow_up_duration": "Up to 5 years",
+    "outcome_measures": "Pain relief, employment status, narcotic use, recommendations, complications.",
+    "inclusion_criteria": "Failed back syndrome, prior lumbar laminectomy, lumbar or leg pain, no mechanical instability.",
+    "number_of_participants_in_study": 32,
+    "answer_to_study_question": "SCS improved pain in most patients initially; benefit declined by 5 years, with reduced narcotic use."
+  },
+  "reasoning": "Anthropic and Google strongly agreed on bibliographic fields, design, sample size, and core findings; OpenRouter provided no usable data. I merged complementary clinical details and kept wording conservative where long-term efficacy percentages differed.",
+  "field_level_decisions": {
+    "authors": "Anthropic and Google identical, high confidence.",
+    "title": "Anthropic and Google identical, high confidence.",
+    "journal_name": "Anthropic and Google identical, high confidence.",
+    "volume_issue_pages": "Anthropic and Google identical, high confidence.",
+    "year_of_publication": "Anthropic and Google identical, high confidence.",
+    "doi": "Both usable models reported missing DOI.",
+    "study_design": "Consensus from the two informative models.",
+    "population_assessed": "Merged overlapping descriptions from both informative models.",
+    "follow_up_duration": "Both indicate maximum follow-up of 5 years.",
+    "outcome_measures": "Merged measure lists from both informative models.",
+    "inclusion_criteria": "Merged overlapping criteria, preserving shared essentials.",
+    "answer_to_study_question": "Synthesized to avoid conflicting exact percentages while preserving agreed direction."
+  },
+  "agreement_score": 0.91
+}

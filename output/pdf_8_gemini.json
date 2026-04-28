@@ -1,0 +1,33 @@
+{
+  "authors": "Leclercq TA, Russo E",
+  "title": "La stimulation \u00e9pidurale dans le traitement des douleurs chroniques",
+  "journal_name": "Neurochirurgie",
+  "volume_issue_pages": "27:125-128",
+  "year_of_publication": 1981,
+  "doi": null,
+  "pubmed_hyperlink": null,
+  "study_design": "case_series_uncontrolled",
+  "study_question": "Can epidural stimulation effectively treat chronic pain in failed back surgery syndrome patients?",
+  "population_assessed": "20 patients with failed disc syndrome after multiple laminectomies",
+  "follow_up_duration": "Up to 24 months or more",
+  "outcome_measures": "Pain relief (analgesic use), physical activity",
+  "inclusion_criteria": "Failed disc syndrome after multiple laminectomies; willingness to undergo detoxification if drug abuser.",
+  "number_of_participants_in_study": 20,
+  "answer_to_study_question": "Epidural stimulation showed good results in 50% of cases, especially for unilateral pain. Bilateral pain often failed.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 0.0,
+    "study_design": 1.0,
+    "study_question": 1.0,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 0.7,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

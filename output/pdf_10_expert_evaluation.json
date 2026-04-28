@@ -1,0 +1,28 @@
+{
+  "best_extraction": {
+    "authors": "De La Porte C, Van de Kelft E",
+    "title": "Spinal cord stimulation in failed back surgery syndrome",
+    "journal_name": "Pain",
+    "volume_issue_pages": "52(1):55-61",
+    "year_of_publication": 1993,
+    "doi": null,
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/8446436/",
+    "study_design": "retrospective_cohort_controlled",
+    "study_question": "Can selected FBSS patients achieve long-term pain control with spinal cord stimulation?",
+    "population_assessed": "78 FBSS patients without surgically treatable lesions; 64 received implants.",
+    "follow_up_duration": "1-7 years, mean 4 years",
+    "outcome_measures": "Pain relief, medication use, lifestyle or activity changes, continued device use",
+    "inclusion_criteria": "FBSS, no surgical lesion, psychiatric stability, strong trial-stimulation pain relief",
+    "number_of_participants_in_study": 78,
+    "answer_to_study_question": "About 54-55% achieved long-term success; medication use and lifestyle also improved."
+  },
+  "reasoning": "Bibliographic fields strongly agreed. Chose 52(1) over 52(0) by two-model consensus. Used PubMed link from one high-confidence model. Sample was 78 assessed, 64 implanted; kept 78 as study population. Study design favored retrospective cohort by two models despite one case-series label.",
+  "field_level_decisions": {
+    "volume_issue_pages": "Two models gave 52(1):55-61; one lower-confidence outlier gave issue 0.",
+    "doi": "No model provided a valid DOI; returned null.",
+    "pubmed_hyperlink": "Accepted sole high-confidence PubMed URL.",
+    "study_design": "Majority favored retrospective_cohort_controlled; confidence similar but consensus stronger.",
+    "number_of_participants_in_study": "Used 78 because all patients were assessed; 64 appears implanted subgroup."
+  },
+  "agreement_score": 0.9
+}

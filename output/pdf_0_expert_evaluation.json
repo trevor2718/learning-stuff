@@ -1,0 +1,27 @@
+{
+  "best_extraction": {
+    "authors": "Al-Kaisy A, Van Buyten JP, Carganillo R, Caraway D, Gliner B, Subbaroyan J, Panwar C, Rotte A, Amirdelfan K, Kapural L",
+    "title": "10 kHz SCS therapy for chronic pain, effects on opioid usage: Post hoc analysis of data from two prospective studies",
+    "journal_name": "Scientific Reports",
+    "volume_issue_pages": "9:11441",
+    "year_of_publication": 2019,
+    "doi": "10.1038/s41598-019-47792-3",
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/31391503/",
+    "study_design": "prospective_cohort_controlled",
+    "study_question": "Does 10 kHz SCS reduce opioid use and pain in chronic back and leg pain patients?",
+    "population_assessed": "Adults with chronic low back and/or leg pain receiving 10 kHz SCS, mainly failed back surgery syndrome.",
+    "follow_up_duration": "12 months",
+    "outcome_measures": "Opioid dose MME/day, back pain VAS, leg pain VAS",
+    "inclusion_criteria": "Adults with chronic back and/or leg pain, VAS at least 5 cm, SCS candidates.",
+    "number_of_participants_in_study": 137,
+    "answer_to_study_question": "10 kHz SCS reduced opioid dose and high-risk opioid use while significantly improving back and leg pain."
+  },
+  "reasoning": "Most fields showed unanimous agreement. For study design and sample size, Anthropic and OpenRouter aligned; Google differed despite lower design confidence and likely counted completers.",
+  "field_level_decisions": {
+    "study_design": "Chose prospective_cohort_controlled from two models; article is a post hoc analysis of prospective studies, not a standalone trial.",
+    "number_of_participants_in_study": "Used 137 from two models; 129 likely reflects a subset or follow-up sample.",
+    "volume_issue_pages": "Preferred concise consensus format 9:11441 over expanded pagination.",
+    "population_assessed": "Merged shared description with failed back surgery syndrome detail from higher-confidence Anthropic output."
+  },
+  "agreement_score": 0.94
+}

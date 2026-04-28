@@ -1,0 +1,33 @@
+{
+  "authors": "Leclercq TA, Russo E",
+  "title": "La stimulation \u00e9pidurale dans le traitement des douleurs chroniques",
+  "journal_name": "Neurochirurgie",
+  "volume_issue_pages": "27(2):125-128",
+  "year_of_publication": 1981,
+  "doi": "NAN",
+  "pubmed_hyperlink": null,
+  "study_design": "case_series_uncontrolled",
+  "study_question": "Is epidural stimulation effective for treating chronic pain in failed disc syndrome patients?",
+  "population_assessed": "Twenty patients with internalized epidural stimulators for chronic pain from failed disc syndrome.",
+  "follow_up_duration": "Up to 24 months post-implantation",
+  "outcome_measures": "Pain control, physical activity restoration, medication requirements, electrode migration",
+  "inclusion_criteria": "Patients with chronic pain from failed disc syndrome requiring surgical intervention.",
+  "number_of_participants_in_study": 20,
+  "answer_to_study_question": "Good pain relief and restored physical activity in 50% of cases; electrode migration and infection complications noted.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 0.0,
+    "study_design": 0.9,
+    "study_question": 0.8,
+    "population_assessed": 1.0,
+    "follow_up_duration": 0.8,
+    "outcome_measures": 0.8,
+    "inclusion_criteria": 0.7,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 0.9
+  }
+}

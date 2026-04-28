@@ -1,0 +1,27 @@
+{
+  "best_extraction": {
+    "authors": "Sinclair NC, McDermott HJ, Bulluss KJ, Fallon JB, Perera T, Xu SS, Brown P, Thevathasan W",
+    "title": "Subthalamic Nucleus Deep Brain Stimulation Evokes Resonant Neural Activity",
+    "journal_name": "Annals of Neurology",
+    "volume_issue_pages": "83(5):1027-1031",
+    "year_of_publication": 2018,
+    "doi": "10.1002/ana.25234",
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/29727475/",
+    "study_design": "case_series_uncontrolled",
+    "study_question": "Does STN-DBS evoke focal resonant neural activity linked to therapeutic benefit?",
+    "population_assessed": "14 Parkinson disease and 5 essential tremor patients undergoing awake DBS implantation surgery.",
+    "follow_up_duration": "At least 3 months postsurgery; mean 390 days; one patient 560 days.",
+    "outcome_measures": "ERNA amplitude, electrode location, and UPDRS motor improvement.",
+    "inclusion_criteria": "Patients undergoing awake DBS implantation surgery for Parkinson disease or essential tremor.",
+    "number_of_participants_in_study": 19,
+    "answer_to_study_question": "STN-DBS evoked focal ERNA, strongest dorsally, associated with better clinical improvement."
+  },
+  "reasoning": "Bibliographic fields were unanimous. For study design, all models disagreed with equal low confidence; this appears observational without control, so case_series_uncontrolled best fits. Other content merged from strong agreement and higher-confidence phrasing.",
+  "field_level_decisions": {
+    "journal_name": "Expanded abbreviated journal title to full consensus form.",
+    "study_design": "Preferred observational case series over clinical trial or controlled cohort.",
+    "follow_up_duration": "Merged consistent minimum and mean follow-up details.",
+    "outcome_measures": "Combined shared measures across models."
+  },
+  "agreement_score": 0.92
+}

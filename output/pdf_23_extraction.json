@@ -1,0 +1,18 @@
+{
+  "paper_path": "training_papers/pdf_23.pdf",
+  "essential_features": null,
+  "features": null,
+  "model_responses": [
+    {
+      "model_name": "gpt-5.4-mini",
+      "provider": "OpenAI",
+      "essential_extraction": null,
+      "extraction": null,
+      "processing_time": 5.83448600769043,
+      "error": "Error code: 400 - {'error': {'message': 'The file you uploaded is badly formatted or corrupted. Please fix the file and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'invalid_file'}}"
+    }
+  ],
+  "expert_evaluation": null,
+  "ground_truth_similarity": null,
+  "total_processing_time": 5.835806846618652
+}

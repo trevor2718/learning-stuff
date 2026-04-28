@@ -1,0 +1,33 @@
+{
+  "authors": "Slavin KV, North RB, Deer TR, Staats P, Davis K, Diaz R",
+  "title": "Tonic and burst spinal cord stimulation waveforms for chronic, intractable pain: study protocol for a randomized controlled trial",
+  "journal_name": "Trials",
+  "volume_issue_pages": "17:569",
+  "year_of_publication": 2016,
+  "doi": "10.1186/s13063-016-1706-5",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/27906080/",
+  "study_design": "clinical_trial",
+  "study_question": "To establish noninferiority of burst stimulation compared to tonic for pain intensity after 3 months.",
+  "population_assessed": "Candidates for neurostimulation with chronic neuropathic pain of trunk/limbs, successful tonic trial.",
+  "follow_up_duration": "24 weeks controlled phase, then 6 months for up to 2 years open-label.",
+  "outcome_measures": "Overall VAS score (primary), responder rate, paresthesia, pain relief, adverse events, quality of life.",
+  "inclusion_criteria": "Informed consent, \u226522 years, chronic intractable neuropathic pain, baseline VAS \u226560, failed \u22653 treatments.",
+  "number_of_participants_in_study": 173,
+  "answer_to_study_question": "NAN",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 1.0,
+    "study_question": 1.0,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 1.0,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "authors": "Kapural L, Yu C, Doust MW, Gliner BE, Vallejo R, Sitzman BT, Amirdelfan K, Morgan DM, Yearwood TL, Bundschu R, Yang T, Benyamin R, Burgher AH",
+  "title": "Comparison of 10-kHz High-Frequency and Traditional Low-Frequency Spinal Cord Stimulation for the Treatment of Chronic Back and Leg Pain: 24-Month Results From a Multicenter, Randomized, Controlled Pivotal Trial",
+  "journal_name": "NEUROSURGERY",
+  "volume_issue_pages": "79(5):667-677",
+  "year_of_publication": 2016,
+  "doi": "10.1227/NEU.0000000000001418",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/27584814/",
+  "study_design": "clinical_trial",
+  "study_question": "To compare long-term results of HF10 therapy and traditional low-frequency SCS for chronic back and leg pain.",
+  "population_assessed": "Patients with chronic intractable back and leg pain (VAS \u22655.0/10.0 cm) refractory to conservative therapy.",
+  "follow_up_duration": "24 months",
+  "outcome_measures": "Responder rate (\u226550% back pain reduction), leg pain responder rate, percent pain relief, disability level.",
+  "inclusion_criteria": "Chronic intractable back/leg pain (VAS \u22655.0), refractory to conservative therapy, ODI 41-80, surgical candidate.",
+  "number_of_participants_in_study": 198,
+  "answer_to_study_question": "HF10 therapy demonstrated long-term superiority over traditional SCS in treating both chronic back and leg pain.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 1.0,
+    "study_question": 1.0,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 1.0,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

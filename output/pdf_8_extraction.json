@@ -1,0 +1,18 @@
+{
+  "paper_path": "training_papers/pdf_8.pdf",
+  "essential_features": null,
+  "features": null,
+  "model_responses": [
+    {
+      "model_name": "gpt-5.4-mini",
+      "provider": "OpenAI",
+      "essential_extraction": null,
+      "extraction": null,
+      "processing_time": 1.4044909477233887,
+      "error": "Connection error."
+    }
+  ],
+  "expert_evaluation": null,
+  "ground_truth_similarity": null,
+  "total_processing_time": 1.404994010925293
+}

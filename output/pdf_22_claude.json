@@ -1,0 +1,33 @@
+{
+  "authors": "Soulas T, Gurruchaga JM, Palfi S, Cesaro P, Nguyen JP, F\u00e9nelon G",
+  "title": "Attempted and completed suicides after subthalamic nucleus stimulation for Parkinson's disease",
+  "journal_name": "Journal of Neurology, Neurosurgery & Psychiatry",
+  "volume_issue_pages": "79(9):952-954",
+  "year_of_publication": 2008,
+  "doi": "10.1136/jnnp.2007.130583",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/18403439/",
+  "study_design": "retrospective_cohort_controlled",
+  "study_question": "What is the prevalence and characteristics of suicide in STN DBS patients with Parkinson's disease?",
+  "population_assessed": "200 Parkinson's disease patients undergoing bilateral subthalamic nucleus deep brain stimulation between 1997-2006",
+  "follow_up_duration": "Mean 12.0 months after surgery; study period 1997-2006",
+  "outcome_measures": "Completed suicide, attempted suicide, depression scores, cognitive status, impulse control",
+  "inclusion_criteria": "Parkinson's disease patients undergoing bilateral STN DBS at single center; preoperative psychiatric assessment available",
+  "number_of_participants_in_study": 200,
+  "answer_to_study_question": "Two patients (1%) completed suicide and four (2%) attempted suicide. Suicidal behavior associated with postoperative depression and altered impulse regulation.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 0.9,
+    "study_question": 0.95,
+    "population_assessed": 1.0,
+    "follow_up_duration": 0.9,
+    "outcome_measures": 0.95,
+    "inclusion_criteria": 0.85,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

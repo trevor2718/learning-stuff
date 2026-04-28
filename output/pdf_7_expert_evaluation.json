@@ -1,0 +1,27 @@
+{
+  "best_extraction": {
+    "authors": "Devulder J, De Laat M, Van Bastelaere M, Rolly G",
+    "title": "Spinal Cord Stimulation: A Valuable Treatment for Chronic Failed Back Surgery Patients",
+    "journal_name": "Journal of Pain and Symptom Management",
+    "volume_issue_pages": "13(5):296-301",
+    "year_of_publication": 1997,
+    "doi": null,
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/9185435/",
+    "study_design": "case_series_uncontrolled",
+    "study_question": "Evaluate long-term outcomes and cost-effectiveness of SCS in chronic failed back surgery syndrome.",
+    "population_assessed": "69 chronic failed back surgery syndrome patients treated with spinal cord stimulation.",
+    "follow_up_duration": "13-year study period; mean stimulator use 4.9 years",
+    "outcome_measures": "Pain relief, return to work, drug intake, stimulator use, annual costs",
+    "inclusion_criteria": "CFBSS, no surgical option, no psychological impairment, successful 2-week trial stimulation",
+    "number_of_participants_in_study": 69,
+    "answer_to_study_question": "SCS gave sustained pain relief for many; 43 of 69 continued therapy with good relief."
+  },
+  "reasoning": "All models agreed on bibliographic fields and sample size. Case-series design was favored by two models and better fits an uncontrolled 69-patient follow-up. PubMed link came from one high-confidence model; DOI was unavailable.",
+  "field_level_decisions": {
+    "study_design": "Chose case_series_uncontrolled over retrospective_cohort_controlled due to two-model agreement and uncontrolled study description.",
+    "follow_up_duration": "Merged consistent details: 13-year study window and mean 4.9-year device use.",
+    "doi": "Returned null because other models indicated unavailable DOI with NAN.",
+    "pubmed_hyperlink": "Accepted OpenRouter value because it was specific and high confidence."
+  },
+  "agreement_score": 0.95
+}

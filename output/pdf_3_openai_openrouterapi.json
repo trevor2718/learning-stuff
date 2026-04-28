@@ -1,0 +1,33 @@
+{
+  "authors": "McDermott H, McKay C",
+  "title": "Comment on: Short pulse width widens the therapeutic window of subthalamic neurostimulation",
+  "journal_name": "Annals of Clinical and Translational Neurology",
+  "volume_issue_pages": "NAN",
+  "year_of_publication": 2015,
+  "doi": "10.1002/acn3.253",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/26478899/",
+  "study_design": "laboratory_study",
+  "study_question": "Does charge-per-pulse analysis alter therapeutic window interpretation in subthalamic neurostimulation?",
+  "population_assessed": "Extracted data from Reich et al patients with subthalamic neurostimulation",
+  "follow_up_duration": "0",
+  "outcome_measures": "charge per pulse, rigidity control, muscle contraction threshold, therapeutic window",
+  "inclusion_criteria": "Data reported by Reich et al across 20-120 microsecond pulses",
+  "number_of_participants_in_study": 0,
+  "answer_to_study_question": "Charge-based reanalysis suggests wider pulses produce a larger therapeutic window.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 0.7,
+    "volume_issue_pages": 0.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 0.4,
+    "study_question": 0.7,
+    "population_assessed": 0.7,
+    "follow_up_duration": 0.0,
+    "outcome_measures": 0.7,
+    "inclusion_criteria": 0.7,
+    "number_of_participants_in_study": 0.0,
+    "answer_to_study_question": 1.0
+  }
+}

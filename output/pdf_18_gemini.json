@@ -1,0 +1,33 @@
+{
+  "authors": "Al-Kaisy A, Palmisani S, Smith TE, Pang D, Lam K, Burgoyne W, Houghton R, Hudson E, Lucas J",
+  "title": "10 kHz High-Frequency Spinal Cord Stimulation for Chronic Axial Low Back Pain in Patients With No History of Spinal Surgery: A Preliminary, Prospective, Open Label and Proof-of-Concept Study",
+  "journal_name": "Neuromodulation: Technology at the Neural Interface",
+  "volume_issue_pages": "20(1):63-70",
+  "year_of_publication": 2017,
+  "doi": "10.1111/ner.12563",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/28025843/",
+  "study_design": "case_series_uncontrolled",
+  "study_question": "Does 10 kHz HF-SCS effectively treat chronic axial low back pain in patients without prior spinal surgery?",
+  "population_assessed": "Patients with chronic axial low back pain, no prior spinal surgery, medically refractory, 18-65 years.",
+  "follow_up_duration": "One year post-implant",
+  "outcome_measures": "Back pain VAS, ODI, quality-adjusted life year gain, opioid use",
+  "inclusion_criteria": "Chronic axial low back pain, no prior spinal surgery, failed conservative management, 18-65 years.",
+  "number_of_participants_in_study": 21,
+  "answer_to_study_question": "HF10 therapy significantly reduced back pain, disability, and opioid use, improving quality of life.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 1.0,
+    "study_question": 1.0,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 1.0,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "best_extraction": {
+    "authors": "Salmon J",
+    "title": "High-frequency spinal cord stimulation at 10 kHz for widespread pain: outcomes from combined cervical and thoracic placements",
+    "journal_name": "Postgraduate Medicine",
+    "volume_issue_pages": "131(3):230-238",
+    "year_of_publication": 2019,
+    "doi": "10.1080/00325481.2019.1587564",
+    "pubmed_hyperlink": null,
+    "study_design": "case_series_uncontrolled",
+    "study_question": "What are long-term outcomes of HF10-SCS for widespread neuropathic or nociplastic pain?",
+    "population_assessed": "38 implanted patients with widespread upper and lower body neuropathic or nociplastic pain, including fibromyalgia",
+    "follow_up_duration": "2.3 ± 1.7 years",
+    "outcome_measures": "NRS pain, RMDQ disability, employment, opioid use, satisfaction, adverse events",
+    "inclusion_criteria": "Widespread upper and lower body neuropathic or nociplastic pain; combined cervical and thoracic HF10-SCS trial",
+    "number_of_participants_in_study": 38,
+    "answer_to_study_question": "HF10-SCS showed sustained pain relief, improved disability and employment, reduced opioid use, and high satisfaction."
+  },
+  "reasoning": "Bibliographic fields showed near-complete agreement. Participant count was 38 by all models. Study design favored uncontrolled case series over controlled cohort because no comparator group appears in any extraction. Follow-up used Anthropic and OpenRouter consensus; outcome measures merged overlapping items.",
+  "field_level_decisions": {
+    "study_design": "Overrode two low-specificity cohort labels; article reads as retrospective survey/case series without control group.",
+    "title": "Used agreed title wording, shortened slightly to stay under word limit.",
+    "population_assessed": "Used implanted cohort size 38, not initial 45 candidates.",
+    "follow_up_duration": "Accepted 2.3 ± 1.7 years from two models; Gemini had zero confidence.",
+    "outcome_measures": "Merged common endpoints across models."
+  },
+  "agreement_score": 0.93
+}

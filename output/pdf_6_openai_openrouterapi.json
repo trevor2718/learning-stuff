@@ -1,0 +1,33 @@
+{
+  "authors": "Amirdelfan K, Yu C, Doust MW, Gliner BE, Morgan DM, Kapural L, Vallejo R, Sitzman BT, Yearwood TL, Bundschu R, Yang T, Benyamin R, Burgher AH, Brooks ES, Powell AA, Subbaroyan J",
+  "title": "Long-term quality of life improvement for chronic intractable back and leg pain patients using spinal cord stimulation: 12-month results from the SENZA-RCT",
+  "journal_name": "Quality of Life Research",
+  "volume_issue_pages": "27(8):2035-2044",
+  "year_of_publication": 2018,
+  "doi": "10.1007/s11136-018-1890-8",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/29858746/",
+  "study_design": "clinical_trial",
+  "study_question": "Does 10 kHz SCS improve quality of life more than traditional SCS in chronic back and leg pain?",
+  "population_assessed": "Adults with chronic back and leg pain randomized at 10 US pain centers",
+  "follow_up_duration": "12 months",
+  "outcome_measures": "ODI, GAF, SF-MPQ-2, PSQI, SF-12, GIC",
+  "inclusion_criteria": "Chronic back and leg pain; successful trial required permanent implant",
+  "number_of_participants_in_study": 171,
+  "answer_to_study_question": "10 kHz SCS improved disability, functioning, sleep, and pain measures more than traditional SCS at 12 months.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 0.7,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 0.7,
+    "study_question": 1.0,
+    "population_assessed": 0.7,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 0.7,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

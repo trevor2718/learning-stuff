@@ -1,0 +1,27 @@
+{
+  "best_extraction": {
+    "authors": "Kapural L, Yu C, Doust MW, Gliner BE, Vallejo R, Sitzman BT, Amirdelfan K, Morgan DM, Yearwood TL, Bundschu R, Yang T, Benyamin R, Burgher AH",
+    "title": "Comparison of 10-kHz High-Frequency and Traditional Low-Frequency Spinal Cord Stimulation for Chronic Back and Leg Pain: 24-Month Results",
+    "journal_name": "Neurosurgery",
+    "volume_issue_pages": "79(5):667-677",
+    "year_of_publication": 2016,
+    "doi": "10.1227/NEU.0000000000001418",
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/27584814/",
+    "study_design": "clinical_trial",
+    "study_question": "Is HF10 superior to traditional low-frequency SCS for chronic back and leg pain at 24 months?",
+    "population_assessed": "Adults with chronic intractable back and leg pain refractory to conservative therapy at 11 US centers.",
+    "follow_up_duration": "24 months",
+    "outcome_measures": "Responder rates, VAS back and leg pain, ODI, pain remission, patient satisfaction",
+    "inclusion_criteria": "Chronic trunk or limb pain, refractory 3 months, back and leg VAS at least 5, ODI 41-80",
+    "number_of_participants_in_study": 198,
+    "answer_to_study_question": "HF10 showed superior durable back and leg pain relief versus traditional SCS through 24 months."
+  },
+  "reasoning": "Strong agreement across models on bibliographic fields. I chose the title variant matching the 24-month paper. Participant count favored 198 by two high-confidence models; 171 likely reflects analyzed completers.",
+  "field_level_decisions": {
+    "title": "Used concise 24-month title from Anthropic; Google title appeared expanded subtitle form.",
+    "number_of_participants_in_study": "Selected randomized study population 198, not 171 completers.",
+    "population_assessed": "Merged OpenRouter site detail with consensus pain condition description.",
+    "outcome_measures": "Combined shared endpoints across models."
+  },
+  "agreement_score": 0.96
+}

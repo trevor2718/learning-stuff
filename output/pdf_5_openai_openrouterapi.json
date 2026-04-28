@@ -1,0 +1,33 @@
+{
+  "authors": "Sinclair NC, McDermott HJ, Bulluss KJ, Fallon JB, Perera T, Xu SS, Brown P, Thevathasan W",
+  "title": "Subthalamic Nucleus Deep Brain Stimulation Evokes Resonant Neural Activity",
+  "journal_name": "Annals of Neurology",
+  "volume_issue_pages": "83(5):1027-1031",
+  "year_of_publication": 2018,
+  "doi": "10.1002/ana.25234",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/29727475/",
+  "study_design": "prospective_cohort_controlled",
+  "study_question": "Can STN-DBS evoke a focal resonant neural biomarker linked to optimal clinical benefit?",
+  "population_assessed": "14 Parkinson disease and 5 essential tremor patients undergoing awake DBS implantation",
+  "follow_up_duration": "At least 3 months; 103-586 days mean 390",
+  "outcome_measures": "ERNA amplitude, electrode location, UPDRS III items 20-26 improvement",
+  "inclusion_criteria": "Patients undergoing awake DBS implantation for Parkinson disease or essential tremor",
+  "number_of_participants_in_study": 19,
+  "answer_to_study_question": "STN-DBS evoked focal ERNA, strongest dorsally, associated with better clinical improvement.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 0.7,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 0.7,
+    "study_question": 0.7,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 0.7,
+    "inclusion_criteria": 0.7,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

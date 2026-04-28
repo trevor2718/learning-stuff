@@ -1,0 +1,33 @@
+{
+  "authors": "Sinclair NC, McDermott HJ, Bulluss KJ, Fallon JB, Perera T, Xu SS, Brown P, Thevathasan W",
+  "title": "Subthalamic Nucleus Deep Brain Stimulation Evokes Resonant Neural Activity",
+  "journal_name": "Ann Neurol",
+  "volume_issue_pages": "83(5):1027\u20131031",
+  "year_of_publication": 2018,
+  "doi": "10.1002/ana.25234",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/29727475/",
+  "study_design": "clinical_trial",
+  "study_question": "Does deep brain stimulation evoke a resonant neural response that can serve as a biomarker?",
+  "population_assessed": "14 Parkinson disease (PD) and 5 essential tremor (ET) patients undergoing DBS implantation.",
+  "follow_up_duration": "At least 3 months postsurgery (mean 390 days); one patient 560 days.",
+  "outcome_measures": "Evoked resonant neural activity (ERNA) amplitude, UPDRS motor improvement.",
+  "inclusion_criteria": "Patients undergoing awake deep brain stimulation implantation surgery for PD or ET.",
+  "number_of_participants_in_study": 19,
+  "answer_to_study_question": "DBS evokes large-amplitude resonant neural activity (ERNA) in STN, correlating with therapeutic benefit.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 0.7,
+    "study_question": 0.9,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 1.0,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

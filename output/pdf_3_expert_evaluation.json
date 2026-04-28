@@ -1,0 +1,28 @@
+{
+  "best_extraction": {
+    "authors": "McDermott H, McKay C",
+    "title": "Comment on: Short pulse width widens the therapeutic window of subthalamic neurostimulation",
+    "journal_name": "Annals of Clinical and Translational Neurology",
+    "volume_issue_pages": "2:984-985",
+    "year_of_publication": 2015,
+    "doi": "10.1002/acn3.253",
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/26478899/",
+    "study_design": "laboratory_study",
+    "study_question": "Does charge-per-pulse reanalysis change therapeutic window interpretation in subthalamic neurostimulation?",
+    "population_assessed": "Patients from Reich et al with subthalamic neurostimulation, reanalyzed from prior study data",
+    "follow_up_duration": "NAN",
+    "outcome_measures": "Charge per pulse, therapeutic window, rigidity control, muscle contraction threshold",
+    "inclusion_criteria": "Reported Reich et al data across varied pulse widths",
+    "number_of_participants_in_study": 0,
+    "answer_to_study_question": "Charge-based reanalysis indicates wider pulses yield a larger therapeutic window than narrower pulses."
+  },
+  "reasoning": "All models agreed on bibliographic fields except pages. Gemini's volume/pages matched journal-year plausibility best. Study fields describe a reanalysis/commentary, so laboratory_study fit better than case_study_uncontrolled despite low confidence. Outcome and conclusion were strongly aligned across models.",
+  "field_level_decisions": {
+    "volume_issue_pages": "Chose Gemini's 2:984-985 over Haiku's implausible 2015(1):984-985 and GPT's NAN.",
+    "study_design": "Selected laboratory_study because article is a data reanalysis/comment, not a patient case report.",
+    "population_assessed": "Merged consensus that prior Reich et al subthalamic stimulation patients were reanalyzed.",
+    "inclusion_criteria": "Inferred minimal criterion from GPT extraction; others gave NAN.",
+    "number_of_participants_in_study": "Set to 0 because this commentary reanalyzed prior data and no new cohort was enrolled."
+  },
+  "agreement_score": 0.92
+}

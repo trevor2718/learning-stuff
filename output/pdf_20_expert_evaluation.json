@@ -1,0 +1,27 @@
+{
+  "best_extraction": {
+    "authors": "Slavin KV, North RB, Deer TR, Staats P, Davis K, Diaz R",
+    "title": "Tonic and burst spinal cord stimulation waveforms for chronic, intractable pain: study protocol for a randomized controlled trial",
+    "journal_name": "Trials",
+    "volume_issue_pages": "17:569",
+    "year_of_publication": 2016,
+    "doi": "10.1186/s13063-016-1706-5",
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/27906080/",
+    "study_design": "clinical_trial",
+    "study_question": "Is burst stimulation noninferior to tonic stimulation for chronic neuropathic pain after three months?",
+    "population_assessed": "Adults with chronic neuropathic trunk or limb pain after successful tonic stimulation trial",
+    "follow_up_duration": "24 weeks controlled phase, then open-label follow-up every 6 months to 2 years",
+    "outcome_measures": "VAS pain, responder rate, paresthesia, BDI-II, PCS, ODI, satisfaction, adverse events",
+    "inclusion_criteria": "Age 22+, chronic neuropathic pain, baseline VAS 60+, failed 3 treatments, successful tonic trial",
+    "number_of_participants_in_study": 173,
+    "answer_to_study_question": "Protocol paper only; results pending. Trial intended to test burst noninferiority versus tonic stimulation."
+  },
+  "reasoning": "Most fields showed strong agreement across all models. I chose consensus bibliographic data, PubMed link from OpenRouter and Google, and sample size 173 because Anthropic and Google agreed while OpenRouter had low confidence.",
+  "field_level_decisions": {
+    "title": "Google title matched Anthropic closely and fits published protocol wording.",
+    "volume_issue_pages": "Anthropic and Google agreed with high confidence on 17:569.",
+    "number_of_participants_in_study": "Selected 173 over 76 due to two-model agreement and higher confidence.",
+    "answer_to_study_question": "This is a protocol, so no outcome results are available."
+  },
+  "agreement_score": 0.95
+}

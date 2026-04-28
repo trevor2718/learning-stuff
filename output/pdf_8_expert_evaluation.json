@@ -1,0 +1,29 @@
+{
+  "best_extraction": {
+    "authors": "Leclercq TA, Russo E",
+    "title": "La stimulation épidurale dans le traitement des douleurs chroniques",
+    "journal_name": "Neurochirurgie",
+    "volume_issue_pages": "27(2):125-128",
+    "year_of_publication": 1981,
+    "doi": "NAN",
+    "pubmed_hyperlink": null,
+    "study_design": "case_series_uncontrolled",
+    "study_question": "Can epidural stimulation treat chronic pain in failed disc syndrome patients?",
+    "population_assessed": "20 patients with failed disc syndrome after multiple laminectomies",
+    "follow_up_duration": "Up to 24 months",
+    "outcome_measures": "Pain relief, analgesic use, physical activity, complications",
+    "inclusion_criteria": "Failed disc syndrome after multiple laminectomies; chronic pain requiring treatment",
+    "number_of_participants_in_study": 20,
+    "answer_to_study_question": "Good results in 50%; better for unilateral pain; complications included migration and infection."
+  },
+  "reasoning": "Anthropic and Google strongly agreed on bibliographic fields, design, year, and sample size. I preferred Anthropic's issue detail and merged both clinical summaries; OpenRouter provided no usable evidence.",
+  "field_level_decisions": {
+    "volume_issue_pages": "Used Anthropic's more specific issue notation over Google's volume-only entry.",
+    "doi": "No DOI supplied by reliable models; kept as NAN.",
+    "study_question": "Merged both models' equivalent failed disc syndrome formulations.",
+    "outcome_measures": "Combined shared efficacy outcomes with Anthropic's reported complications.",
+    "inclusion_criteria": "Used overlapping chronic failed-disc criteria, excluding less-certain detoxification detail.",
+    "answer_to_study_question": "Merged consensus 50% benefit with unilateral-pain advantage and noted reported complications."
+  },
+  "agreement_score": 0.92
+}

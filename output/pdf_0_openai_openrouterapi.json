@@ -1,0 +1,33 @@
+{
+  "authors": "Al-Kaisy A, Van Buyten JP, Carganillo R, Caraway D, Gliner B, Subbaroyan J, Panwar C, Rotte A, Amirdelfan K, Kapural L",
+  "title": "10 kHz SCS therapy for chronic pain, effects on opioid usage: Post hoc analysis of data from two prospective studies",
+  "journal_name": "Scientific Reports",
+  "volume_issue_pages": "9(1):11441-11441",
+  "year_of_publication": 2019,
+  "doi": "10.1038/s41598-019-47792-3",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/31391503/",
+  "study_design": "prospective_cohort_controlled",
+  "study_question": "Does 10 kHz SCS reduce opioid use and pain after 12 months in chronic back and leg pain?",
+  "population_assessed": "Adults with chronic low back and/or leg pain receiving 10 kHz SCS",
+  "follow_up_duration": "12 months",
+  "outcome_measures": "Opioid dose MME/day, back pain VAS, leg pain VAS",
+  "inclusion_criteria": "Adults, chronic back and/or leg pain, SCS candidates, baseline pain thresholds met",
+  "number_of_participants_in_study": 137,
+  "answer_to_study_question": "10 kHz SCS reduced opioid doses and significantly improved back and leg pain at 12 months",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 0.7,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 0.4,
+    "study_question": 1.0,
+    "population_assessed": 0.9,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 0.8,
+    "number_of_participants_in_study": 0.9,
+    "answer_to_study_question": 1.0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "authors": "De La Porte C, Van de Kelft E",
+  "title": "Spinal cord stimulation in failed back surgery syndrome",
+  "journal_name": "Pain",
+  "volume_issue_pages": "52(0):55-61",
+  "year_of_publication": 1993,
+  "doi": null,
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/8446436/",
+  "study_design": "retrospective_cohort_controlled",
+  "study_question": "Can selected FBSS patients achieve long-term pain control with spinal cord stimulation?",
+  "population_assessed": "78 FBSS patients with radicular pain, no surgically treatable lesion",
+  "follow_up_duration": "1-7 years (mean 4 years)",
+  "outcome_measures": "Pain relief, medication use, daily activities, device use, satisfaction",
+  "inclusion_criteria": "FBSS, no surgical lesion, radicular pain, psychiatric stability, 75-100% trial relief",
+  "number_of_participants_in_study": 78,
+  "answer_to_study_question": "54% of implanted patients had successful long-term outcomes; medication and lifestyle also improved.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 0.7,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 0.7,
+    "study_question": 0.9,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 1.0,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "authors": "Salmon J",
+  "title": "High-frequency spinal cord stimulation at 10 kHz for widespread pain: a retrospective survey of outcomes from combined cervical and thoracic electrode placements",
+  "journal_name": "Postgraduate Medicine",
+  "volume_issue_pages": "131(3):230-238",
+  "year_of_publication": 2019,
+  "doi": "10.1080/00325481.2019.1587564",
+  "pubmed_hyperlink": null,
+  "study_design": "retrospective_cohort_controlled",
+  "study_question": "Does HF10-SCS at 10 kHz provide long-term pain relief for widespread neuropathic/nociplastic pain syndromes?",
+  "population_assessed": "45 patients with widespread upper and lower body neuropathic/nociplastic pain syndromes including fibromyalgia",
+  "follow_up_duration": "2.3 \u00b1 1.7 years post-permanent implant",
+  "outcome_measures": "Numerical rating scale, Roland Morris Disability Questionnaire, employment status, opioid medication use",
+  "inclusion_criteria": "Widespread neuropathic/nociplastic pain affecting both upper and lower body; candidates for combined cervical and thoracic SCS",
+  "number_of_participants_in_study": 38,
+  "answer_to_study_question": "HF10-SCS at 10 kHz provides significant long-term pain relief with staggered cervical-thoracic leads, improved disability, employment, and reduced opioid use.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 0.0,
+    "study_design": 0.9,
+    "study_question": 0.9,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 0.95,
+    "inclusion_criteria": 0.85,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 0.95
+  }
+}

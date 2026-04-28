@@ -1,0 +1,26 @@
+{
+  "best_extraction": {
+    "authors": "Stauss T, El Majdoub F, Sayed D, Surges G, Rosenberg WS, Kapural L, Bundschu R, Lalkhen A, Patel N, Gliner B, Subbaroyan J, Rotte A, Edgar DR, Bettag M, Maarouf M",
+    "title": "A multicenter real-world review of 10 kHz SCS outcomes for treatment of chronic trunk and/or limb pain",
+    "journal_name": "Annals of Clinical and Translational Neurology",
+    "volume_issue_pages": "6(3):496-507",
+    "year_of_publication": 2019,
+    "doi": "10.1002/acn3.720",
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/30911573/",
+    "study_design": "retrospective_cohort_controlled",
+    "study_question": "Is 10 kHz SCS effective for chronic trunk and/or limb pain in real-world practice?",
+    "population_assessed": "1660 patients with chronic trunk and/or limb pain trialed or implanted with 10 kHz SCS.",
+    "follow_up_duration": "3, 6, 12 months post-implantation; mean 8.9 months to last visit",
+    "outcome_measures": "Responder rate, pain intensity, function, sleep, quality of life, medication intake",
+    "inclusion_criteria": "Chronic trunk and/or limb pain; trialed or implanted with 10 kHz SCS, April 2014-January 2018.",
+    "number_of_participants_in_study": 1660,
+    "answer_to_study_question": "Over 70% had sustained pain relief, with improved function, sleep, and quality of life."
+  },
+  "reasoning": "Bibliographic fields were unanimous across all models. Study design conflicted, but two models chose retrospective_cohort_controlled, including one with higher confidence than the uncontrolled classification.",
+  "field_level_decisions": {
+    "study_design": "Preferred retrospective_cohort_controlled over case_series_uncontrolled based on majority and higher confidence.",
+    "follow_up_duration": "Merged shared 3, 6, 12 month schedule with mean 8.9 month last visit.",
+    "outcome_measures": "Used fuller consensus list including pain intensity from Anthropic."
+  },
+  "agreement_score": 0.95
+}

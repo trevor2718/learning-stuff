@@ -1,0 +1,26 @@
+{
+  "best_extraction": {
+    "authors": "Harandi S, Kapural L",
+    "title": "Four-Extremity Neurostimulation Using Two Cervical Octapolar Leads and High Frequency of 10 kHz",
+    "journal_name": "Pain Practice",
+    "volume_issue_pages": "18(2):269-272",
+    "year_of_publication": 2017,
+    "doi": "10.1111/papr.12593",
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/28419784/",
+    "study_design": "case_study_uncontrolled",
+    "study_question": "Can 10-kHz cervical SCS relieve four-extremity neuropathic pain without paresthesias?",
+    "population_assessed": "29-year-old man with C3 fracture, central cord lesion, four-extremity neuropathic pain after cervical injury.",
+    "follow_up_duration": "3 months",
+    "outcome_measures": "NRS pain score, functional improvement, opioid use, paresthesia presence",
+    "inclusion_criteria": "Single patient with refractory four-extremity neuropathic pain after cervical injury and surgery.",
+    "number_of_participants_in_study": 1,
+    "answer_to_study_question": "10-kHz cervical SCS reduced pain in all extremities, improved function, and avoided paresthesias through 3 months."
+  },
+  "reasoning": "All models strongly agreed on bibliographic fields and study design. I merged consistent clinical details, favoring shared high-confidence wording for outcomes and population.",
+  "field_level_decisions": {
+    "population_assessed": "Merged consensus from all three; retained C3 fracture and central cord lesion details.",
+    "inclusion_criteria": "Used OpenRouter phrasing because case reports describe patient selection broadly, not literal trial criteria.",
+    "answer_to_study_question": "Used consensus summary without exact percentages to stay concise and robust."
+  },
+  "agreement_score": 0.98
+}

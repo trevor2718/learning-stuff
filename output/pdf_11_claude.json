@@ -1,0 +1,33 @@
+{
+  "authors": "Simpson BA",
+  "title": "Spinal cord stimulation in 60 cases of intractable pain",
+  "journal_name": "Journal of Neurology, Neurosurgery, and Psychiatry",
+  "volume_issue_pages": "54:196-199",
+  "year_of_publication": 1991,
+  "doi": "NAN",
+  "pubmed_hyperlink": null,
+  "study_design": "case_series_uncontrolled",
+  "study_question": "What is the efficacy and safety of spinal cord stimulation for intractable pain?",
+  "population_assessed": "60 patients with intractable pain lasting up to 50 years, ages 21-74 years.",
+  "follow_up_duration": "2 weeks to 9 years (median 29 months)",
+  "outcome_measures": "Pain relief categorized as significant benefit, modest benefit, no effect, or made worse.",
+  "inclusion_criteria": "Patients with intractable pain unresponsive to all other measures tried, implanted with spinal cord stimulators.",
+  "number_of_participants_in_study": 60,
+  "answer_to_study_question": "47% significant benefit, 23% modest benefit, 20% no effect, 6.7% made worse. 70% derived benefit overall.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 0.0,
+    "study_design": 0.95,
+    "study_question": 0.9,
+    "population_assessed": 0.95,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 0.95,
+    "inclusion_criteria": 0.9,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

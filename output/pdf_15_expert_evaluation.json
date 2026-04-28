@@ -1,0 +1,27 @@
+{
+  "best_extraction": {
+    "authors": "De Carolis G, Paroli M, Tollapi L, Doust M, Burgher AH, Yu C, Yang T, Morgan D, Amirdelfan K, Kapural L, Sitzman BT, Bundschu R, Vallejo R, Benyamin R, Yearwood TL, Gliner BE, Powell AA, Bradley K",
+    "title": "Paresthesia-Independence: An Assessment of Technical Factors Related to 10 kHz Paresthesia-Free Spinal Cord Stimulation",
+    "journal_name": "Pain Physician",
+    "volume_issue_pages": "20(5):331-341",
+    "year_of_publication": 2017,
+    "doi": null,
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/28535555/",
+    "study_design": "case_series_uncontrolled",
+    "study_question": "Does HF10 pain relief depend on paresthesia overlap or lead midline positioning?",
+    "population_assessed": "61 adults with chronic intractable back and/or leg pain implanted with HF10 therapy.",
+    "follow_up_duration": "0.25-27 months post-implant; mean 19±9 months",
+    "outcome_measures": "Pain relief, paresthesia-pain overlap, paresthesia laterality, mediolateral distribution",
+    "inclusion_criteria": "Permanent Senza HF10 implant for chronic intractable low back and/or leg pain.",
+    "number_of_participants_in_study": 61,
+    "answer_to_study_question": "HF10 pain relief was unrelated to paresthesia overlap, laterality, or precise midline positioning."
+  },
+  "reasoning": "Bibliographic fields strongly agreed; volume issue from Anthropic matched journal formatting. PubMed link came only from OpenRouter with high confidence. Study design favored uncontrolled observational interpretation over low-confidence clinical_trial.",
+  "field_level_decisions": {
+    "study_design": "Chose case_series_uncontrolled; article assesses implanted patients without apparent control arm.",
+    "doi": "Two models returned NAN and one null; treated as unavailable.",
+    "follow_up_duration": "Merged specific range from Anthropic/Google with mean from Anthropic.",
+    "population_assessed": "Used consensus count and condition, keeping wording concise."
+  },
+  "agreement_score": 0.92
+}

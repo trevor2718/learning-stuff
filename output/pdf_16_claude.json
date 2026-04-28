@@ -1,0 +1,33 @@
+{
+  "authors": "Harandi S, Kapural L",
+  "title": "Four-Extremity Neurostimulation Using Two Cervical Octapolar Leads and High Frequency of 10 kHz",
+  "journal_name": "Pain Practice",
+  "volume_issue_pages": "18(2):269-272",
+  "year_of_publication": 2017,
+  "doi": "10.1111/papr.12593",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/28419784/",
+  "study_design": "case_study_uncontrolled",
+  "study_question": "Can high-frequency 10-kHz spinal cord stimulation achieve four-extremity pain relief without paresthesias?",
+  "population_assessed": "29-year-old male with C3 fracture, central cord lesion, bilateral upper and lower extremity neuropathic pain.",
+  "follow_up_duration": "3 months",
+  "outcome_measures": "Numeric rating scale pain score, opioid usage, functional improvement",
+  "inclusion_criteria": "Patient with bilateral upper and lower extremity neuropathic pain refractory to conventional management.",
+  "number_of_participants_in_study": 1,
+  "answer_to_study_question": "High-frequency 10-kHz SCS achieved 70-80% pain reduction in all four extremities without paresthesias, reducing NRS from 8 to 2.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 1.0,
+    "study_question": 0.9,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 0.7,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "authors": "Devulder J, De Laat M, Van Bastelaere M, Rolly G",
+  "title": "Spinal Cord Stimulation: A Valuable Treatment for Chronic Failed Back Surgery Patients",
+  "journal_name": "Journal of Pain and Symptom Management",
+  "volume_issue_pages": "13(5):296-301",
+  "year_of_publication": 1997,
+  "doi": null,
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/9185435/",
+  "study_design": "retrospective_cohort_controlled",
+  "study_question": "Are long-term outcomes and costs favorable for SCS in chronic failed back surgery syndrome?",
+  "population_assessed": "69 chronic failed back surgery syndrome patients implanted with spinal cord stimulators",
+  "follow_up_duration": "4.9 years mean use; study period 13 years",
+  "outcome_measures": "pain relief, return to work, drug intake, stimulator use, annual costs",
+  "inclusion_criteria": "CFBSS, no curative surgery option, no psychological impairment, successful 2-week trial stimulation",
+  "number_of_participants_in_study": 69,
+  "answer_to_study_question": "SCS provided sustained pain relief for many patients and may be cost-effective when other therapies fail.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 0.7,
+    "study_question": 1.0,
+    "population_assessed": 1.0,
+    "follow_up_duration": 0.7,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 1.0,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

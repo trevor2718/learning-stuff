@@ -1,0 +1,33 @@
+{
+  "authors": "Deer TR, Levy RM, Kramer J, Poree L, Amirdelfan K, Grigsby E, Staats P, Burton AW, Burgher AH, Obray J, Scowcroft J, Golovac S, Kapural L, Paicius R, Kim C, Pope J, Yearwood T, Samuel S, McRoberts WP, Cassim H, Netherton M, Miller N, Schaufele M, Tavel E, Davis T, Davis K, Johnson L, Mekhail N",
+  "title": "Dorsal root ganglion stimulation yielded higher treatment success rate for complex regional pain syndrome and causalgia at 3 and 12 months: a randomized comparative trial",
+  "journal_name": "PAIN",
+  "volume_issue_pages": "158(4):669-681",
+  "year_of_publication": 2017,
+  "doi": "10.1097/j.pain.0000000000000814",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/28030470/",
+  "study_design": "clinical_trial",
+  "study_question": "Does dorsal root ganglion stimulation provide superior pain relief compared to spinal cord stimulation for CRPS and causalgia?",
+  "population_assessed": "152 subjects with complex regional pain syndrome or causalgia in lower extremities, randomized to DRG or SCS.",
+  "follow_up_duration": "12 months",
+  "outcome_measures": "Treatment success (\u226550% pain reduction), paresthesia intensity variation, quality of life, mood, pain interference.",
+  "inclusion_criteria": "Chronic intractable lower limb pain \u22656 months, CRPS or causalgia diagnosis, failed \u22652 pharmacologic treatments, VAS >60mm.",
+  "number_of_participants_in_study": 152,
+  "answer_to_study_question": "DRG stimulation achieved 81.2% treatment success versus 55.7% for SCS at 3 months, with sustained superiority at 12 months.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 1.0,
+    "study_question": 0.9,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 1.0,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

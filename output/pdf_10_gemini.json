@@ -1,0 +1,33 @@
+{
+  "authors": "De La Porte C, Van de Kelft E",
+  "title": "Spinal cord stimulation in failed back surgery syndrome",
+  "journal_name": "Pain",
+  "volume_issue_pages": "52(1):55-61",
+  "year_of_publication": 1993,
+  "doi": "NAN",
+  "pubmed_hyperlink": null,
+  "study_design": "case_series_uncontrolled",
+  "study_question": "Assess SCS in FBSS patients, identify predictors of long-term outcome.",
+  "population_assessed": "78 patients with FBSS undergoing SCS trial, 64 received implant.",
+  "follow_up_duration": "1-7 years (mean 4 years)",
+  "outcome_measures": "Pain relief, medication reduction, lifestyle change, device use.",
+  "inclusion_criteria": "Proved FBSS, no surgically treatable lesion, no major psychiatric pathology, >=75% pain relief during trial.",
+  "number_of_participants_in_study": 64,
+  "answer_to_study_question": "55% had >=50% pain relief, 90% reduced medication, 61% improved lifestyle.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 0.0,
+    "study_design": 0.7,
+    "study_question": 1.0,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 1.0,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

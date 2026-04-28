@@ -1,0 +1,33 @@
+{
+  "authors": "Deer TR, Levy RM, Kramer J, Poree L, Amirdelfan K, Grigsby E, Staats P, Burton AW, Burgher AH, Obray J, Scowcroft J, Golovac S, Kapural L, Paicius R, Kim C, Pope J, Yearwood T, Samuel S, McRoberts WP, Cassim H, Netherton M, Miller N, Schaufele M, Tavel E, Davis T, Davis K, Johnson L, Mekhail N",
+  "title": "Dorsal root ganglion stimulation yielded higher treatment success rate for complex regional pain syndrome and causalgia at 3 and 12 months",
+  "journal_name": "PAIN",
+  "volume_issue_pages": "158(4):669-681",
+  "year_of_publication": 2017,
+  "doi": "10.1097/j.pain.0000000000000814",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/28030470/",
+  "study_design": "clinical_trial",
+  "study_question": "Does DRG stimulation outperform SCS for lower-limb CRPS or causalgia pain and treatment success?",
+  "population_assessed": "Adults with chronic lower-limb CRPS or causalgia at 22 US sites",
+  "follow_up_duration": "12 months",
+  "outcome_measures": "Treatment success, VAS pain, neurological deficits, paresthesia variation, adverse events",
+  "inclusion_criteria": "Adults 22-75, lower-limb CRPS/causalgia, pain 6+ months, VAS over 60, stimulation-naive",
+  "number_of_participants_in_study": 152,
+  "answer_to_study_question": "DRG stimulation achieved higher treatment success, better pain relief, and less paresthesia variation than SCS",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 1.0,
+    "study_question": 1.0,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 1.0,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

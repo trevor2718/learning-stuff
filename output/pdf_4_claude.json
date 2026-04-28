@@ -1,0 +1,33 @@
+{
+  "authors": "Thomson SJ, Tavakkolizadeh M, Love-Jones S, Patel NK, Gu JW, Bains A, Doan Q, Moffitt M",
+  "title": "Effects of Rate on Analgesia in Kilohertz Frequency Spinal Cord Stimulation: Results of the PROCO Randomized Controlled Trial",
+  "journal_name": "Neuromodulation: Technology at the Neural Interface",
+  "volume_issue_pages": "21(1):67-76",
+  "year_of_publication": 2018,
+  "doi": "10.1111/ner.12746",
+  "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/29220121/",
+  "study_design": "clinical_trial",
+  "study_question": "Do stimulation rates from 1-10 kHz provide equivalent pain relief in spinal cord stimulation?",
+  "population_assessed": "20 patients with chronic low back pain with or without leg pain, implanted with SCS systems",
+  "follow_up_duration": "3 months",
+  "outcome_measures": "Electronic diary numeric rating scale pain scores, charge per second, quality of life measures",
+  "inclusion_criteria": "Persistent low back pain \u226590 days, \u226590 days pain management, mean pain \u22655, stable opioids, ODI 20-80",
+  "number_of_participants_in_study": 20,
+  "answer_to_study_question": "All frequencies 1-10 kHz provided equivalent pain relief. 1 kHz required 60-70% less charge than higher frequencies.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 1.0,
+    "study_design": 1.0,
+    "study_question": 0.9,
+    "population_assessed": 0.95,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 0.95,
+    "inclusion_criteria": 0.9,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}

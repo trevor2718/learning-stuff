@@ -1,0 +1,30 @@
+{
+  "best_extraction": {
+    "authors": "Thomson SJ, Tavakkolizadeh M, Love-Jones S, Patel NK, Gu JW, Bains A, Doan Q, Moffitt M",
+    "title": "Effects of Rate on Analgesia in Kilohertz Frequency Spinal Cord Stimulation: Results of the PROCO Randomized Controlled Trial",
+    "journal_name": "Neuromodulation: Technology at the Neural Interface",
+    "volume_issue_pages": "21(1):67-76",
+    "year_of_publication": 2018,
+    "doi": "10.1111/ner.12746",
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/29220121/",
+    "study_design": "clinical_trial",
+    "study_question": "Do 1-10 kHz stimulation rates provide equivalent analgesia, and how does charge usage differ?",
+    "population_assessed": "20 adults with chronic low back pain, with or without leg pain, implanted with SCS systems",
+    "follow_up_duration": "3 months",
+    "outcome_measures": "ED-NRS pain, charge per second, ODI, EQ-5D-5L, PSQI, PGIC",
+    "inclusion_criteria": "Low back pain 90+ days, prior pain care, mean pain 5+, stable opioids, ODI 20-80",
+    "number_of_participants_in_study": 20,
+    "answer_to_study_question": "All 1-10 kHz frequencies gave similar pain relief; 1 kHz used substantially less charge."
+  },
+  "reasoning": "All models agreed strongly on core bibliographic fields. I chose the fuller journal title and issue-inclusive pages from higher-confidence consensus. Study details were merged: all agreed on 20 participants, clinical trial, 3-month follow-up, equivalent analgesia across 1-10 kHz, and lower charge at 1 kHz.",
+  "field_level_decisions": {
+    "journal_name": "Preferred full journal title from Anthropic and Google.",
+    "volume_issue_pages": "Used 21(1):67-76; two models included issue, one omitted it.",
+    "study_question": "Merged OpenRouter and Anthropic formulations for analgesia and charge.",
+    "population_assessed": "Combined consensus details, keeping participant count and implanted SCS status.",
+    "follow_up_duration": "Used shared final follow-up duration; omitted crossover period detail for brevity.",
+    "outcome_measures": "Merged common endpoints across models.",
+    "inclusion_criteria": "Used overlapping criteria present across extractions."
+  },
+  "agreement_score": 0.98
+}

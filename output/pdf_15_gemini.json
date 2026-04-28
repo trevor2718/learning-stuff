@@ -1,0 +1,33 @@
+{
+  "authors": "De Carolis G, Paroli M, Tollapi L, Doust M, Burgher A H, Yu C, Yang T, Morgan D, Amirdelfan K, Kapural L, Sitzman B T, Bundschu R, Vallejo R, Benyamin R, Yearwood T L, Gliner B E, Powell A A, Bradley K",
+  "title": "Paresthesia-Independence: An Assessment of Technical Factors Related to 10 kHz Paresthesia-Free Spinal Cord Stimulation",
+  "journal_name": "Pain Physician",
+  "volume_issue_pages": "20:331-341",
+  "year_of_publication": 2017,
+  "doi": "NAN",
+  "pubmed_hyperlink": null,
+  "study_design": "case_series_uncontrolled",
+  "study_question": "Is HF10 therapy pain relief related to paresthesia-pain overlap or mediolateral paresthesia distribution?",
+  "population_assessed": "Patients with chronic back and leg pain implanted with HF10 SCS device.",
+  "follow_up_duration": "0.25-27 months post-IPG implant",
+  "outcome_measures": "Pain relief, paresthesia-pain overlap, mediolateral paresthesia distribution",
+  "inclusion_criteria": "HF10 SCS implanted patients with chronic back and leg pain.",
+  "number_of_participants_in_study": 61,
+  "answer_to_study_question": "No correlation between paresthesia overlap/position and HF10 therapy efficacy was found.",
+  "field_confidence": {
+    "authors": 1.0,
+    "title": 1.0,
+    "journal_name": 1.0,
+    "volume_issue_pages": 1.0,
+    "year_of_publication": 1.0,
+    "pubmed_hyperlink": 0.0,
+    "study_design": 0.7,
+    "study_question": 1.0,
+    "population_assessed": 1.0,
+    "follow_up_duration": 1.0,
+    "outcome_measures": 1.0,
+    "inclusion_criteria": 1.0,
+    "number_of_participants_in_study": 1.0,
+    "answer_to_study_question": 1.0
+  }
+}
