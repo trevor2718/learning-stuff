@@ -1,0 +1,63 @@
+2026-03-31 13:26:59 - paper_extractor - [32mINFO[0m - OpenAI Extractor initialized.
+2026-03-31 13:26:59 - paper_extractor - [32mINFO[0m - Claude extractor initialized.
+2026-03-31 13:27:00 - paper_extractor - [32mINFO[0m - Gemini Extractor initialized.
+2026-03-31 13:27:00 - paper_extractor - [32mINFO[0m - Loading sentence-transformer model: all-MiniLM-L6-v2
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 6120.04it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m - Sentence-transformer model loaded.
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m - Extraction Params:
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m -   - OpenAI: True
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m -   - Gemini: True
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m -   - Claude: True
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m -   - Expert Evaluation: True
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m -   - Similarity Scoring: True
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m - ==================================================
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m - Starting extraction for: training_papers/pdf_16.pdf
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m - Timestamp: 2026-03-31T13:27:01.487328
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m - ==================================================
+2026-03-31 13:27:01 - paper_extractor - [32mINFO[0m - Extracting essential features with OpenAI mini model
+2026-03-31 13:27:08 - paper_extractor - [31mERROR[0m - Failed to extract essential features: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-5-nano in organization org-5T256OwnwWtajHDS74Ff1JTO on tokens per min (TPM): Limit 100000, Used 100000, Requested 1557. Please try again in 11h12m37.44s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2026-03-31 13:27:08 - paper_extractor - [32mINFO[0m - Running OpenAI extraction...
+2026-03-31 13:27:08 - paper_extractor - [32mINFO[0m - Extracting all features with OpenAI
+2026-03-31 13:27:31 - paper_extractor - [31mERROR[0m - OpenAI extraction failed: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-5-nano in organization org-5T256OwnwWtajHDS74Ff1JTO on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}
+2026-03-31 13:27:31 - paper_extractor - [32mINFO[0m - Running Claude extraction...
+2026-03-31 13:27:37 - paper_extractor - [32mINFO[0m - Searching with DOI: 10.1111/papr.12593
+2026-03-31 13:27:37 - paper_extractor - [32mINFO[0m - Searching PubMed with query: 10.1111/papr.12593[DOI] AND Four-Extremity Neurostimulation Using Two Cervical Octapolar Leads and High Frequency of 10 kHz[Title] AND Harandi[Author] AND 2017[pdat]
+2026-03-31 13:27:37 - paper_extractor - [32mINFO[0m - Found PMID: 28419784
+2026-03-31 13:27:37 - paper_extractor - [32mINFO[0m - Claude output saved to /Users/shravanselvavel/WikistimProject/output/pdf_16_claude.json
+2026-03-31 13:27:37 - paper_extractor - [32mINFO[0m - Running Gemini extraction...
+2026-03-31 13:27:37 - paper_extractor - [32mINFO[0m - Extracting all features with Gemini
+2026-03-31 13:27:48 - paper_extractor - [32mINFO[0m - Searching with DOI: 10.1111/papr.12593
+2026-03-31 13:27:48 - paper_extractor - [32mINFO[0m - Searching PubMed with query: 10.1111/papr.12593[DOI] AND Four-Extremity Neurostimulation Using Two Cervical Octapolar Leads and High Frequency of 10 kHz[Title] AND Harandi[Author] AND 2017[pdat]
+2026-03-31 13:27:48 - paper_extractor - [32mINFO[0m - Found PMID: 28419784
+2026-03-31 13:27:48 - paper_extractor - [32mINFO[0m - Gemini output saved to /Users/shravanselvavel/WikistimProject/output/pdf_16_gemini.json
+2026-03-31 13:27:48 - paper_extractor - [31mERROR[0m - x OpenAI/gpt-5-nano (23.31s) - Error: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-5-nano in organization org-5T256OwnwWtajHDS74Ff1JTO on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}
+2026-03-31 13:27:48 - paper_extractor - [32mINFO[0m - ✓ Anthropic/claude-haiku-4-5-20251001 (6.04s)
+2026-03-31 13:27:48 - paper_extractor - [32mINFO[0m - ✓ Google/gemini-2.5-flash (10.90s)
+2026-03-31 13:27:48 - paper_extractor - [32mINFO[0m - Running expert evaluation...
+2026-03-31 13:27:48 - paper_extractor - [32mINFO[0m - Starting expert evaluation of model responses
+2026-03-31 13:27:57 - paper_extractor - [32mINFO[0m - Agreement score: 0.96
+2026-03-31 13:27:57 - paper_extractor - [32mINFO[0m - Running similarity scoring against ground truth...
+2026-03-31 13:27:59 - paper_extractor - [32mINFO[0m - Similarity: overall=0.874  string=0.780  specific=1.000  passing=10/14
+2026-03-31 13:27:59 - paper_extractor - [32mINFO[0m - Total processing time: 57.93s
+2026-03-31 13:27:59 - paper_extractor - [32mINFO[0m - Final output saved to: /Users/shravanselvavel/WikistimProject/output/pdf_16_final.json
+2026-03-31 13:27:59 - paper_extractor - [32mINFO[0m - Similarity scores saved to: /Users/shravanselvavel/WikistimProject/output/pdf_16_similarity.json
+2026-03-31 13:27:59 - paper_extractor - [32mINFO[0m - ==================================================
+2026-03-31 13:27:59 - paper_extractor - [32mINFO[0m - Extraction SUCCESS for: training_papers/pdf_16.pdf
+2026-03-31 13:27:59 - paper_extractor - [32mINFO[0m - Processing time: 57.93 seconds
+2026-03-31 13:27:59 - paper_extractor - [32mINFO[0m - ==================================================
+
+================================================================================
+  Extraction completed successfully
+  Paper: pdf_16.pdf
+  Output: /Users/shravanselvavel/WikistimProject/output/pdf_16_final.json
+  Time: 57.93s
+================================================================================
+
