@@ -1,0 +1,30 @@
+Find the author(s), title, year, journal, and DOI of the journal article.
+
+For authors, use this format:
+Thomson SJ, Tavakkolizadeh M, Love-Jones S, Patel NK, Gu JW, Bains A, Doan Q, Moffitt M
+
+Note: It should be a list of authors separated by commas,
+with last name followed by initials (no periods).
+
+For each field, also assign a confidence score between 0.0 and 1.0:
+  1.0 = explicitly stated in the text
+  0.7 = strongly implied or inferred from context
+  0.4 = best guess with uncertainty
+  0.0 = not found
+
+The final output must be JSON in exactly this shape:
+
+{
+  "authors": "$authors",
+  "title": "$title",
+  "year_of_publication": "$year",
+  "journal_name": "$journal",
+  "doi": "$doi",
+  "field_confidence": {
+    "authors": <0.0-1.0>,
+    "title": <0.0-1.0>,
+    "year_of_publication": <0.0-1.0>,
+    "journal_name": <0.0-1.0>,
+    "doi": <0.0-1.0>
+  }
+}

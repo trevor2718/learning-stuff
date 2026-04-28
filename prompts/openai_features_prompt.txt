@@ -1,0 +1,97 @@
+Extract the following features from the provided document.
+
+GLOBAL RULE: Every extracted text field MUST be 20 words or fewer. Count strictly — truncate or condense if needed.
+
+FORMATTING RULES — follow these exactly:
+
+authors:
+  Last name followed by initials, comma-separated. No periods after initials.
+  Example: Thomson SJ, Tavakkolizadeh M, Love-Jones S, Patel NK
+
+volume_issue_pages:
+  Use compact format: Vol(Issue):StartPage-EndPage
+  Examples: "18(2):269-272", "52(1):55-61", "132(1-2):179-188"
+  Do NOT write "Volume 18, Issue 2, pages 269-272". Use the compact format only.
+
+study_question:
+  State the main research question. Max 20 words. Do not start with "Yes" or "No".
+
+population_assessed:
+  Brief description of who was studied. Max 20 words.
+
+follow_up_duration:
+  Simple duration, e.g. "3 months", "1-7 years (mean 4 years)". Max 20 words.
+
+outcome_measures:
+  Comma-separated list of primary measures. Max 20 words total.
+
+inclusion_criteria:
+  Brief summary of key eligibility criteria. Max 20 words.
+
+answer_to_study_question:
+  State the main finding. Focus on results, not methodology. Max 20 words.
+
+number_of_participants_in_study:
+  Integer count of participants. Use the primary study group count.
+
+For each field, assign a confidence score between 0.0 and 1.0:
+  1.0 = explicitly stated in the text
+  0.7 = strongly implied or inferred from context
+  0.4 = best guess with uncertainty
+  0.0 = not found
+
+If you CANNOT FIND INFORMATION ON SOMETHING AFTER CHECKING EVERYTHING, input "NAN" or 0 for the field.
+Leave pubmed_hyperlink as an empty string — it is resolved separately.
+
+For study_design, you MUST select exactly one value from this list:
+  - clinical_trial
+  - cost_analysis
+  - laboratory_study
+  - computer_modeling_study
+  - sciatic_nerve_ligature_modeling_study
+  - case_study_uncontrolled
+  - case_series_uncontrolled
+  - case_control_study
+  - prospective_cohort_controlled
+  - retrospective_cohort_controlled
+
+Do NOT invent a value. Do NOT use "NAN". If the study design is ambiguous,
+select the closest match and reflect your uncertainty in field_confidence.study_design.
+
+Follow this OUTPUT TEMPLATE exactly:
+
+{
+  "authors": "$authors",
+  "title": "$title",
+  "journal_name": "$journal_name",
+  "volume_issue_pages": "$volume_issue_pages",
+  "year_of_publication": $year_of_publication,
+  "doi": $doi,
+  "pubmed_hyperlink": "",
+  "study_design": "$study_design",
+  "study_question": "$study_question",
+  "population_assessed": "$population_assessed",
+  "follow_up_duration": "$follow_up_duration",
+  "outcome_measures": "$outcome_measures",
+  "inclusion_criteria": "$inclusion_criteria",
+  "number_of_participants_in_study": $number_of_participants_in_study,
+  "answer_to_study_question": "$answer_to_study_question",
+  "field_confidence": {
+    "authors": <0.0-1.0>,
+    "title": <0.0-1.0>,
+    "journal_name": <0.0-1.0>,
+    "volume_issue_pages": <0.0-1.0>,
+    "year_of_publication": <0.0-1.0>,
+    "pubmed_hyperlink": 0.0,
+    "study_design": <0.0-1.0>,
+    "study_question": <0.0-1.0>,
+    "population_assessed": <0.0-1.0>,
+    "follow_up_duration": <0.0-1.0>,
+    "outcome_measures": <0.0-1.0>,
+    "inclusion_criteria": <0.0-1.0>,
+    "number_of_participants_in_study": <0.0-1.0>,
+    "answer_to_study_question": <0.0-1.0>
+  }
+}
+
+Please respond only with valid JSON. Do not include any explanation or text outside the JSON object.

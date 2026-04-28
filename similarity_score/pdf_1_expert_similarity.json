@@ -1,0 +1,162 @@
+{
+  "stem": "pdf_1",
+  "pdf_path": "/Users/david/Desktop/Bass/WikistimProject/training_papers/pdf_1.pdf",
+  "openrouter_expert_model": "openai/gpt-5.4",
+  "source_outputs": {
+    "output_dir": "/Users/david/Desktop/Bass/WikistimProject/output",
+    "files": [
+      "pdf_1_claude.json",
+      "pdf_1_openai_openrouterapi.json or pdf_1_openrouter.json",
+      "pdf_1_gemini.json"
+    ]
+  },
+  "expert_reasoning": "All three models strongly agreed on bibliographic fields and sample size. I used the shared consensus for title, authors, journal, year, DOI, PMID link, and participant count. For descriptive fields, I merged the most complete consistent details: Anthropic provided the richest population, follow-up, and outcomes wording with high confidence, while OpenRouter added the explicit countries. Study design was unanimous but only moderate-confidence across models, so retained the shared label.",
+  "expert_agreement_score": 0.98,
+  "expert_field_level_decisions": {
+    "study_design": "All models agreed on retrospective_cohort_controlled despite only moderate confidence.",
+    "population_assessed": "Merged Anthropic's exact sample/timing with OpenRouter's country detail.",
+    "follow_up_duration": "Merged consensus wording: up to 12 months with mean last visit 8.9 months.",
+    "outcome_measures": "Used Anthropic/OpenRouter fuller list including VNRS and explantation."
+  },
+  "expert_best_extraction": {
+    "authors": "Stauss T, El Majdoub F, Sayed D, Surges G, Rosenberg WS, Kapural L, Bundschu R, Lalkhen A, Patel N, Gliner B, Subbaroyan J, Rotte A, Edgar DR, Bettag M, Maarouf M",
+    "title": "A multicenter real-world review of 10 kHz SCS outcomes for treatment of chronic trunk and/or limb pain",
+    "journal_name": "Annals of Clinical and Translational Neurology",
+    "volume_issue_pages": "6(3):496-507",
+    "year_of_publication": 2019,
+    "doi": "10.1002/acn3.720",
+    "pubmed_hyperlink": "https://pubmed.ncbi.nlm.nih.gov/30911573/",
+    "study_design": "retrospective_cohort_controlled",
+    "study_question": "What is the real-world efficacy of high-frequency spinal cord stimulation at 10 kHz for treating chronic trunk and/or limb pain in a large multicenter patient population?",
+    "population_assessed": "1660 patients with chronic trunk and/or limb pain who were trialed and/or permanently implanted with 10 kHz HF-SCS between April 2014 and January 2018 across eight centers in the USA, Germany, and the UK.",
+    "follow_up_duration": "Up to 12 months post-implantation; mean time to last visit 8.9 months",
+    "outcome_measures": "Responder rate (≥50% pain relief from baseline), pain intensity scores (VNRS), function, sleep, quality of life, medication intake, and device explantation rate",
+    "inclusion_criteria": "Patients with chronic trunk and/or limb pain who were trialed and/or permanently implanted with 10 kHz HF-SCS between April 2014 and January 2018 at participating institutions.",
+    "number_of_participants_in_study": 1660,
+    "answer_to_study_question": "10 kHz HF-SCS provided sustained real-world benefit for chronic trunk and/or limb pain: over 70% of patients maintained at least 50% pain relief through 12 months, with 74.1% responders at last visit, and many also reported improved function, sleep, quality of life, and reduced medication use."
+  },
+  "similarity_vs_ground_truth": {
+    "paper_path": "/Users/david/Desktop/Bass/WikistimProject/training_papers/pdf_1.pdf",
+    "string_features": [
+      {
+        "field_name": "study_question",
+        "model_value": "What is the real-world efficacy of high-frequency spinal cord stimulation at 10 kHz for treating chronic trunk and/or limb pain in a large multicenter patient population?",
+        "ground_truth_value": "Assess real-world effectiveness of 10 kHz HF-SCS for chronic trunk and/or limb pain.",
+        "cosine_similarity": 0.729,
+        "target": 0.8,
+        "passed": false
+      },
+      {
+        "field_name": "population_assessed",
+        "model_value": "1660 patients with chronic trunk and/or limb pain who were trialed and/or permanently implanted with 10 kHz HF-SCS between April 2014 and January 2018 across eight centers in the USA, Germany, and the UK.",
+        "ground_truth_value": "1660 patients trialed and/or permanently implanted with HF-SCS at 10 kHz",
+        "cosine_similarity": 0.7711,
+        "target": 0.8,
+        "passed": false
+      },
+      {
+        "field_name": "follow_up_duration",
+        "model_value": "Up to 12 months post-implantation; mean time to last visit 8.9 months",
+        "ground_truth_value": "Mean follow-up 8.9 months (SD 6.7, range 0.1–33.2).",
+        "cosine_similarity": 0.455,
+        "target": 0.8,
+        "passed": false
+      },
+      {
+        "field_name": "answer_to_study_question",
+        "model_value": "10 kHz HF-SCS provided sustained real-world benefit for chronic trunk and/or limb pain: over 70% of patients maintained at least 50% pain relief through 12 months, with 74.1% responders at last visit, and many also reported improved function, sleep, quality of life, and reduced medication use.",
+        "ground_truth_value": "HF-SCS at 10 kHz provided sustained ≥50% pain relief in over 70% of patients through 12 months, with last-visit responder rate 74.1%, and improvements in QoL, function, sleep, and reduced medication use; explant rate 3.7%.",
+        "cosine_similarity": 0.8994,
+        "target": 0.8,
+        "passed": true
+      },
+      {
+        "field_name": "inclusion_criteria",
+        "model_value": "Patients with chronic trunk and/or limb pain who were trialed and/or permanently implanted with 10 kHz HF-SCS between April 2014 and January 2018 at participating institutions.",
+        "ground_truth_value": "Patients trialed and/or permanently implanted with HF-SCS at 10 kHz between April 2014 and January 2018.",
+        "cosine_similarity": 0.8038,
+        "target": 0.8,
+        "passed": true
+      },
+      {
+        "field_name": "outcome_measures",
+        "model_value": "Responder rate (≥50% pain relief from baseline), pain intensity scores (VNRS), function, sleep, quality of life, medication intake, and device explantation rate",
+        "ground_truth_value": "Responder rate (≥50% pain relief) at 3, 6, 12 months and last visit; changes in pain intensity (VNRS), function, sleep, quality of life, and medication use.",
+        "cosine_similarity": 0.7641,
+        "target": 0.8,
+        "passed": false
+      },
+      {
+        "field_name": "number_of_participants_in_study",
+        "model_value": "1660",
+        "ground_truth_value": "1660",
+        "cosine_similarity": 1.0,
+        "target": 0.8,
+        "passed": true
+      },
+      {
+        "field_name": "study_design",
+        "model_value": "retrospective_cohort_controlled",
+        "ground_truth_value": "case_series_uncontrolled",
+        "cosine_similarity": 0.147,
+        "target": 0.8,
+        "passed": false
+      }
+    ],
+    "specific_features": [
+      {
+        "field_name": "authors",
+        "model_value": "Stauss T, El Majdoub F, Sayed D, Surges G, Rosenberg WS, Kapural L, Bundschu R, Lalkhen A, Patel N, Gliner B, Subbaroyan J, Rotte A, Edgar DR, Bettag M, Maarouf M",
+        "ground_truth_value": "Stauss T, El Majdoub F, Sayed D, Surges G, Rosenberg WS, Kapural L, Bundschu R, Lalkhen A, Patel N, Gliner B, Subbaroyan J, Rotte A, Edgar DR, Bettag M, Maarouf M",
+        "cosine_similarity": 1.0,
+        "target": 0.9,
+        "passed": true
+      },
+      {
+        "field_name": "title",
+        "model_value": "A multicenter real-world review of 10 kHz SCS outcomes for treatment of chronic trunk and/or limb pain",
+        "ground_truth_value": "A multicenter real-world review of 10 kHz SCS outcomes for treatment of chronic trunk and/or limb pain",
+        "cosine_similarity": 1.0,
+        "target": 0.9,
+        "passed": true
+      },
+      {
+        "field_name": "journal_name",
+        "model_value": "Annals of Clinical and Translational Neurology",
+        "ground_truth_value": "Annals of Clinical and Translational Neurology",
+        "cosine_similarity": 1.0,
+        "target": 0.9,
+        "passed": true
+      },
+      {
+        "field_name": "volume_issue_pages",
+        "model_value": "6(3):496-507",
+        "ground_truth_value": "6(3): 496-507",
+        "cosine_similarity": 1.0,
+        "target": 0.9,
+        "passed": true
+      },
+      {
+        "field_name": "year_of_publication",
+        "model_value": "2019",
+        "ground_truth_value": "2019",
+        "cosine_similarity": 1.0,
+        "target": 0.9,
+        "passed": true
+      },
+      {
+        "field_name": "pubmed_hyperlink",
+        "model_value": "https://pubmed.ncbi.nlm.nih.gov/30911573/",
+        "ground_truth_value": "https://pubmed.ncbi.nlm.nih.gov/30911573/",
+        "cosine_similarity": 1.0,
+        "target": 0.9,
+        "passed": true
+      }
+    ],
+    "mean_string_similarity": 0.6962,
+    "mean_specific_similarity": 1.0,
+    "mean_overall_similarity": 0.8264,
+    "fields_passing": 9,
+    "fields_total": 14
+  }
+}
